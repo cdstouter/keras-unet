@@ -1,5 +1,6 @@
 setuptools
 numpy
 matplotlib
-tensorflow-cpu
+#tensorflow-cpu
+keras
 bump2version
